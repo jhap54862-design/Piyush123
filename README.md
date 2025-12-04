@@ -1,6 +1,6 @@
 # Piyush123
 “Learning by building.”  “A simple idea turned into a web project.”  “Clean UI, simple logic, smooth experience.”  “Building skills one project at a time.”  “Another step in my web dev journey.”
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Piyush Jha </h1>
 <h3 align="center">A Passionate Web Developer & BTech CSE Student</h3>
 
 ---
